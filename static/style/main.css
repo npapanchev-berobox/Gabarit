@@ -2,7 +2,7 @@
     box-sizing: border-box;
     margin: 0;
     padding: 0;
-    font-family: 'Kumbh Sans', sans-serif;
+    font-family: 'Tenorite', sans-serif;
 }
 
 .navbar {
@@ -29,8 +29,8 @@
 }
 
 #navbar__logo {
-    background-color: #77cbff;
-    background-image: linear-gradient(to top, #1808ff 0%, #99fff3 100%);
+    background-color: #47f541;
+    background-image: linear-gradient(to top, #3cd4a7 0%, #91d5c1 100%);
     background-size: 100%;
     -webkit-background-clip: text;
     -moz-background-clip: text;
@@ -87,18 +87,18 @@
     border: none; 
     outline:none; 
     border-radius: 4px;
-    background: #1976d2; 
+    background: #91D5C1; 
     color: #fff;
 
 }
 
 .button:hover {
-    background-color: #1808ff;
+    background-color: #5f8a7e;
     transition: all 0.3s ease; 
 }
 
 .navbar__links:hover{
-    color: #6296f7;
+    color: #91D5C1;
     background-color: transparent;
     transition: all 0.3s ease; 
 }
@@ -219,7 +219,7 @@
 .main__content h1 {
     font-size: 4rem;
     background-color: #77cbff;
-    background-image: linear-gradient(to top, #1808ff 0%, #99fff3 100%);
+    background-image: linear-gradient(to top, #08ff5a 0%, #99fff3 100%);
     background-size: 100%;
     -webkit-background-clip: text;
     -moz-background-clip: text;
@@ -230,7 +230,7 @@
 .main__content h2 {
     font-size: 3rem;
     background-color: #77cbff;
-    background-image: linear-gradient(to top, #b22626 0%, #872df5 100%);
+    background-image: linear-gradient(to top, #FAF3EB 0%, #9ee995 100%);
     background-size: 100%;
     -webkit-background-clip: text;
     -moz-background-clip: text;
@@ -247,7 +247,7 @@
 
 .main__btn {
     font-size: 1rem;
-    background-image: linear-gradient(to top, #f77062 0%, #fe5196 100%);
+    background-image: linear-gradient(to top, #7dac8f 0%, #91d5c1 100%);
     padding: 14px 32px;
     border: none; 
     border-radius: 4px;
@@ -273,7 +273,7 @@
     left: 0;
     width: 0;
     height: 100%;
-    background: #4837ff;
+    background: #5f8a7e;
     transition: all 0.35s;
     border-radius: 4px;
 }
